@@ -217,7 +217,7 @@ const dummyMeals = [
     duration: 20,
     ingredients: [
       '1 1/2 Cups all-purpose Flour',
-      '3 1/2 Teaspoons Baking Powder',
+      '3 1/2 Teaspoons Baking Powder ',
       '1 Teaspoon Salt',
       '1 Tablespoon White Sugar',
       '1 1/4 cups Milk',
